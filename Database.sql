@@ -82,3 +82,4 @@ alter table hotels add column ac_charges int;
 
 SELECT * FROM bookpackage WHERE username = 'someuser';
 
+
