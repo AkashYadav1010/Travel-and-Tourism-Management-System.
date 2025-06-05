@@ -41,7 +41,7 @@ A Java-based GUI application for managing travel bookings, customer details, hot
   * Manage hotel database 
   * Generate booking reports 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Frontend**
 
